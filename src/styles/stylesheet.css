@@ -5,6 +5,7 @@ html{
 p{
     font-size: 1.6rem;
     line-height: 1.5;
+    text-align: center;
 }
 
 h1{
@@ -66,7 +67,7 @@ button, .button {
     display: inline-block;  
     line-height: 2;  
     text-decoration: none;  
-    padding: 5px;  
+    padding: 1px;  
     text-align: center;  
     font-size: 15px;  
     color: red;  
